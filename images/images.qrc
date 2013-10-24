@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fire_particle.png</file>
+        <file>ammo1.png</file>
+        <file>explo_flare1.png</file>
+        <file>smoke1.png</file>
+        <file>tree1.png</file>
+        <file>ground.png</file>
+        <file>treepart1.png</file>
+        <file>clouds.png</file>
+        <file>bg1.png</file>
+        <file>bg0.png</file>
+        <file>player.png</file>
+        <file>bg2.png</file>
+        <file>player_head.png</file>
+        <file>gun.png</file>
+        <file>arrow_down.png</file>
+        <file>texts.png</file>
+        <file>sound_onoff.png</file>
+        <file>rock_wall.png</file>
+        <file>indicator.png</file>
+        <file>tip.png</file>
+    </qresource>
+</RCC>

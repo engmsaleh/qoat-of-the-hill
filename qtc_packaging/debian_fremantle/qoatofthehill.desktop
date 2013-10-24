@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Qoat of the Hill
+Exec=/opt/usr/bin/qoatofthehill
+Icon=qoatofthehill
+StartupWMClass=
+X-Window-Icon=qoatofthehill
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+Terminal=false
