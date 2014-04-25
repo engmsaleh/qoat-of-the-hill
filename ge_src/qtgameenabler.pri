@@ -1,4 +1,4 @@
-# Copyright (c) 2011 Nokia Corporation.
+# Copyright (c) 2011-2014 Microsoft Mobile.
 
 # Comment the following line out for better performance. Using the definition
 # enables debug logging which is convenient for locating problems in the code
